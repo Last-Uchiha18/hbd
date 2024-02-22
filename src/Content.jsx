@@ -16,7 +16,7 @@ function Content() {
                     </h3>
                 </div>
           
-                <img src="/profile.jpg" alt="Fuck this shit" className='profilePic' />
+                <img src="/hbd/profile.jpg" alt="Fuck this shit" className='profilePic' />
         
             </div>
     

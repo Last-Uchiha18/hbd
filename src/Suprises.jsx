@@ -31,8 +31,8 @@ function Surprises() {
     return (
         <>
             <div className='surprises'>
-                <img src="/gift2.gif" alt="dadsaddas" onClick={handleClick}  style={{ cursor: 'pointer' }}/>
-                <img src="/gift2.gif" alt="dadsaddas" style={{ cursor: 'pointer' }} onClick={handleClick1}/>
+                <img src="/hbd/gift2.gif" alt="dadsaddas" onClick={handleClick}  style={{ cursor: 'pointer' }}/>
+                <img src="/hbd/gift2.gif" alt="dadsaddas" style={{ cursor: 'pointer' }} onClick={handleClick1}/>
             </div>
 
             {isModalOpen && (
@@ -71,8 +71,7 @@ function Surprises() {
           Bss bhai aur kya chahiye hadddd haiiii. Main ni aaa skta wahan ab and Sorry dress couldn't reach on time.
           <br />
 Before you go here’s a song. 
-<br />
-<a rel="stylesheet" href="https://www.youtube.com/watch?v=CbtoiMKaKGY" className="song">Give it a listen when you get time</a>
+<a rel="stylesheet" href="https://www.youtube.com/watch?v=CbtoiMKaKGY" className="song">Give it a listen</a>
 
 <br />
             <br />
@@ -80,7 +79,7 @@ Until next time, Enjoy your day and Happy Birthday once again!
 <br />
 P.S. Below is one of my fav pic of yours. I just don’t have words to describe it :)  </p>
 
-          <img src="/lil.jpg" alt="" className='modalImg'/>
+          <img src="/hbd/lil.jpg" alt="" className='modalImg'/>
 
                     </div>
                  

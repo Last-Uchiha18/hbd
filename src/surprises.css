@@ -29,7 +29,7 @@
   }
   
   .modal {
-    background-image: url("/Modal1.avif"); /* Replace with your actual image path */
+    background-image: url("/hbd/Modal1.avif"); /* Replace with your actual image path */
     background-size: cover;
     background-position: center;
     width: 40%; /* Adjust the width as needed */

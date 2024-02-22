@@ -13,7 +13,7 @@ function Qualities() {
                
                <div className="item">
                    
-                   <img src="/hbd/profile.jpg" alt="Fuck this shit" className='profilePic' />
+                   <img src="/hbd/img2.jpg" alt="Fuck this shit" className='profilePic' />
                    <h3>
                    Taking a Nap(ofc)
                    </h3>
@@ -21,7 +21,7 @@ function Qualities() {
 
                <div className="item">
                    
-                    <img src="/crying.jpeg" alt="Fuck this shit" className='profilePic' />
+                    <img src="/hbd/crying.jpeg" alt="Fuck this shit" className='profilePic' />
                     <h3>
                     Crying
                     </h3>
@@ -29,7 +29,7 @@ function Qualities() {
 
                <div className="item">
                  
-                 <img src="/profile.jpg" alt="Fuck this shit" className='profilePic' />
+                 <img src="/hbd/profile.jpg" alt="Fuck this shit" className='profilePic' />
                  <h3>
                  Bitching
                  </h3>
@@ -37,7 +37,7 @@ function Qualities() {
 
                <div className="item">
                   
-                  <img src="/embarass.jpeg" alt="Fuck this shit" className='profilePic' />
+                  <img src="/hbd/embarass.jpeg" alt="Fuck this shit" className='profilePic' />
                   <h3>
                   Embarassing herself
                   </h3>
@@ -45,7 +45,7 @@ function Qualities() {
 
                 <div className="item">
                    
-                   <img src="/pose.jpeg" alt="Fuck this shit" className='profilePic' />
+                   <img src="/hbd/pose.jpeg" alt="Fuck this shit" className='profilePic' />
                    <h3>
                    Posing like a pro 
                    </h3>
@@ -53,7 +53,7 @@ function Qualities() {
 
                 <div className="item">
                    
-                   <img src="/hottie.jpeg" alt="Fuck this shit" className='profilePic' />
+                   <img src="/hbd/hottie.jpeg" alt="Fuck this shit" className='profilePic' />
                    <h3>
                    Last but not the least, Being hot
                    </h3>
