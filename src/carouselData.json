@@ -1,0 +1,59 @@
+{
+    "slides": [
+      {
+        "src": "/img1.jpg",
+        "alt": "Image 1 for carousel",
+        "line":"Things I Love About You"
+      },
+      {
+        "src": "/img2.jpg",
+        "alt": "Image 2 for carousel",
+        "line":"You are a great friend"
+      },
+      {
+        "src": "/img3.jpg",
+        "alt": "Image 3 for carousel",
+        "line":"You genuinely care about others around you"
+      },
+      {
+        "src": "/img4.jpg",
+        "alt": "Image 1 for carousel",
+        "line":"You love with all your heart"
+      },
+      {
+        "src": "/img5.jpg",
+        "alt": "Image 2 for carousel",
+        "line":"You're really understanding (atleast for me :P)"
+      },
+      {
+        "src": "/img6.jpg",
+        "alt": "Image 3 for carousel",
+        "line":"You're great at getting roasted"
+      },
+      {
+        "src": "/img7.jpg",
+        "alt": "Image 1 for carousel",
+        "line":"You're loyal af"
+      },
+      {
+        "src": "/img8.jpg",
+        "alt": "Image 2 for carousel",
+        "line":"Your style and dressing sense "
+      },
+      {
+        "src": "/img9.jpg",
+        "alt": "Image 3 for carousel",
+        "line":"I admire your sketching and painting skill"
+      },
+      {
+        "src": "/img10.jpg",
+        "alt": "Image 2 for carousel",
+        "line":"You're dependable."
+      },
+      {
+        "src": "/img11.jpg",
+        "alt": "Image 3 for carousel",
+        "line":"Last but not the least you're The best at ignoring and rejecting me xD"
+      }
+    ]
+  }
