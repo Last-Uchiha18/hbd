@@ -13,7 +13,7 @@ function Qualities() {
                
                <div className="item">
                    
-                   <img src="/profile.jpg" alt="Fuck this shit" className='profilePic' />
+                   <img src="/hbd/profile.jpg" alt="Fuck this shit" className='profilePic' />
                    <h3>
                    Taking a Nap(ofc)
                    </h3>
